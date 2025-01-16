@@ -1,4 +1,4 @@
-# Elysia with Bun runtime
+# Elysia with Bun runtime and Prisma
 
 ## Getting Started
 ```bash
