@@ -3,6 +3,9 @@
 ## Getting Started
 ```bash
 1. bun install
+2. bunx prisma init
+3. edit .env dengan nama database yang sesuai
+4. bunx prisma migrate dev --name init
 ```
 
 ## Development
